@@ -736,7 +736,7 @@ nav .active-section span {
 
 .footer p {
   margin-bottom: 0px;
-  font-size: 13px;
+  font-size: 11px;
   line-height: 80px;
   color: #fff;
   letter-spacing: 0.5px;
@@ -752,7 +752,7 @@ nav .active-section span {
 .footer a {
   text-decoration: none;
   color: #ff0000;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
   transition: all 0.5s;
 }
