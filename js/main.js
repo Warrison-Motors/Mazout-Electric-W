@@ -113,6 +113,9 @@ jQuery(document).ready(function($) {
           e.preventDefault();
           $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top -0 }, 500, 'linear');
         });
-
+         
+        $('.navbar-nav>li>a').on('click', function(){
+            $('.navbar-collapse').collapse('hide');
+        });
       
 });
